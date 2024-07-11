@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "cc60c4588aa03e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6654150ae848be55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48871af47fee38bb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "golang-dlya-profi-3-izd.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8ea8a227bfedb60",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcc7eea884b6be1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e4704632168d681",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77bcdec0817600d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b934ce9d74c93abc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c786ee94e8c176bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a087af27911306bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19c73dce86d4f7e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "golang-dlya-profi-3-izd.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a78596b8e85bab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "golang-dlya-profi-3-izd.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b9f2faa67d27688",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b35eb6f1c2644d66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "golang-dlya-profi-3-izd.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48871af47fee38bb",
+  "lastOpenFiles": [
+    "ch2/ch2.go",
+    "ch1/code/ch1.go",
+    "ch2/error/error.go",
+    "ch2/main.go",
+    "ch2/error",
+    "ch2",
+    "ch1/code/util/which.go",
+    "ch1/code/hw/hw.go",
+    "ch1/code/control/control.go",
+    "ch1/doc/introduction in go.md",
+    "ch1/code/util",
+    "ch1/code/main.go",
+    "chapter_1/doc/introduction in go.md",
+    "Chapter_1/doc/introduction in go.md",
+    "Chapter 1/introduction in go.md",
+    "Chapter 1/doc/introduction in go.md",
+    "Untitled.md"
+  ]
+}
